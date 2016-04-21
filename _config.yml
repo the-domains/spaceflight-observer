@@ -1,0 +1,28 @@
+name: Spaceflight Observer
+favicon: null
+layout_spectrum: 0.32995331031270325
+typography_spectrum: 0.8643994610756636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13517282344400883
+  lightness: 0.21505288989283144
+  saturation: 0.24651488824747503
+  rhythmicContrast: 0.5576065988279879
+purpose: []
